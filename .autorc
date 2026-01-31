@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "BV9-LFC",
+  "repo": "container-kg0flcy",
+  "name": "BV9-LFC",
+  "email": "bearvixen9@gmail.com",
+}
